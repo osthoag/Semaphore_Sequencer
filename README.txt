@@ -1,7 +1,7 @@
 Welcome to the prototype implementation of the Semaphore sequencer and client
 
 To run the sequencer, run sequencer/node.py
-To run the client, run sequencer/node.py
+To run the client, run client/node.py
 
 By default the sequencer will run on localhost on port 5000
 To change the defaults, edit params.json
