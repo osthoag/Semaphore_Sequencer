@@ -1,5 +1,5 @@
 import sys
-sys.path.append('../sequencer_version')
+sys.path.append('../Semaphore_Sequencer')
 import database as db
 import ecdsa
 import socket
